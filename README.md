@@ -12,7 +12,7 @@ The program runs the fastest with pre-annotated GenBank inputs, but as the name 
 - If using a FASTA-formatted nucleotide sequence, you can upload the FASTA file on the "Upload File tab, or you can paste the sequence directly on the "Paste Sequence" tab.
    - If your FASTA file contains multiple contigs (multi-FASTA), you must use the "Upload File" tab and check the box that says "My input consists of multiple separate contigs".
 
-## Other input parameters
+## 2. Other input parameters
 ### Bacterial sequence annotation mode
 Regardless of your input format, PHASTEST will ask that you choose between "Lite" and "Deep" annotation modes.
 
@@ -21,3 +21,10 @@ Lite annotation uses the Swissprot database, and makes the program run faster.
 Deep annotation uses PHAST-DSB (PHASTEST Bacterial Sequence Database), and makes the program run slower.
 
 Deep annotation is more accurate than lite annotation in that it misses fewer proteins, but it is up to you to choose whether you are looking for high speed or high accuracy. For some inputs, lite annotation returns results comparable to those produced by deep annotation, but for other inputs, deep annotation is significantly better at predicting proteins (see Table 6 on https://phastest.ca/statistics).
+
+### Pre-computed results
+If you are submitting your input from the "Upload File" or "Paste Sequence" tabs, PHASTEST automatically checks a box that says "Use pre-computed results if available".
+
+If you leave this box checked, PHASTEST can retrieve existing results for your input query: for example, if you uploaded a GenBank file that someone else had previously run through PHASTEST, the program will return those results to you rather than redoing the entire annotation.
+
+If you uncheck the box, PHASTEST will not retrieve existing results, and will run your annotation from square one.
