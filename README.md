@@ -30,4 +30,4 @@ If you leave this box checked, PHASTEST can retrieve existing results for your i
 If you uncheck the box, PHASTEST will not retrieve existing results, and will run your annotation from square one.
 
 ### Email notification
-Regardless of your input method, PHASTEST gives you a text box where you can input your email address to be notified when your annotation is done processing. This is not mandatory, especially because PHASTEST runs within a few minutes, but I highly recommend doing it if you want to save your results for later! The URL for your results page never expires, so you can keep the link for future reference and your results will still be there.
+Regardless of your input method, PHASTEST gives you a text box where you can input your email address to be notified when your annotation is done processing. This is not mandatory, especially because PHASTEST completes an annotation within a few minutes, but I highly recommend entering your email if you want to save your results for later! The URL for your results page never expires, so you can keep the link for future reference and your results will still be there.
