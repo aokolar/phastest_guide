@@ -25,6 +25,9 @@ Deep annotation is more accurate than lite annotation in that it misses fewer pr
 ### Pre-computed results
 If you are submitting your input from the "Upload File" or "Paste Sequence" tabs, PHASTEST automatically checks a box that says "Use pre-computed results if available".
 
-If you leave this box checked, PHASTEST can retrieve existing results for your input query: for example, if you uploaded a GenBank file that someone else had previously run through PHASTEST, the program will return those results to you rather than redoing the entire annotation.
+If you leave this box checked, PHASTEST can retrieve existing results for your input query: for example, if you uploaded a GenBank file that someone else had previously run through PHASTEST, the program will return those results to you rather than redoing the entire annotation. If preexisting results exist for your input, this will save you some time.
 
 If you uncheck the box, PHASTEST will not retrieve existing results, and will run your annotation from square one.
+
+### Email notification
+Regardless of your input method, PHASTEST gives you a text box where you can input your email address to be notified when your annotation is done processing. This is not mandatory, especially because PHASTEST runs within a few minutes, but I highly recommend doing it if you want to save your results for later! The URL for your results page never expires, so you can keep the link for future reference and your results will still be there.
