@@ -31,3 +31,21 @@ If you are submitting your input from the "Upload File" or "Paste Sequence" tabs
 
 ### 2.3. Email notification
 Regardless of your input method, PHASTEST gives you a text box where you can input your email address to be notified when your annotation is done processing. This is not mandatory, especially because PHASTEST completes an annotation within a few minutes, but I highly recommend entering your email if you want to save your results for later! The URL for your results page never expires, so you can keep the link for future reference and your results will still be there.
+
+### 2.4. Remember me
+At the bottom of the input window is a pre-checked box that says "Remember My Searches". If you leave this box checked, PHASTEST will remember any annotations you run in your current browser. This option uses cookies.
+
+To access your previously completed searches, click on the three parallel lines in the top left corner of any page, then navigate to "My Searches". 
+
+If at any time you want to remove a result from your saved searches, open the results page and uncheck the "Remember Me" box in the top right corner of the page.
+
+## When you are ready, click "SUBMIT" and let PHASTEST work its magic.
+
+## 3. Submission results
+### 3.1. Region summary
+
+### 3.2. Phage genes
+
+### 3.3. Bacterial genes
+
+### 3.4 Genome viewer 2.0
