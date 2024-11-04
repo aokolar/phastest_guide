@@ -12,6 +12,14 @@ The program runs the fastest with pre-annotated GenBank inputs, but as the name 
 - If using a FASTA-formatted nucleotide sequence, you can upload the FASTA file on the "Upload File" tab, or you can paste the sequence directly on the "Paste Sequence" tab.
    - If your FASTA file contains multiple contigs (multi-FASTA), you must use the "Upload File" tab and check the box that says "My input consists of multiple separate contigs".
 
+### Sample data
+PHASTEST provides sample input data for all of the above formats (except for raw nucleotide sequences). To test these out:
+- From the "Upload file" tab: click on the links in "See an example Genbank file or an example FASTA file" to download a file in either format. You can then upload this file to PHASTEST and run it.
+- From the "Enter GenBank accession" tab: click on the green "Load example" button at the bottom of the blue box, and PHASTEST will load a GenBank accession number into the input box for you to use.
+- From the "Paste sequence" tab, you have two options:
+   - Click on the link in "See an example FASTA sequence" to download a FASTA file. You must then open the file and copy the text to turn around and paste it into PHASTEST. This is a little convoluted when you could just upload the file directly on the "Upload file" tab.
+   - For a much more convenient option, click on the green "Load example" button at the bottom of the blue box and PHASTEST will load the sequence text from a FASTA file into the text box for you.
+
 ## 2. Other input parameters
 ### 2.1. Bacterial sequence annotation mode
 Regardless of your input format, PHASTEST will ask that you choose between "Lite" and "Deep" annotation modes.
