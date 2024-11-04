@@ -33,7 +33,7 @@ Deep annotation is more accurate than lite annotation in that it misses fewer pr
 ### 2.2. Pre-computed results
 If you are submitting your input from the "Upload File" or "Paste Sequence" tabs, PHASTEST automatically checks a box that says "Use pre-computed results if available".
 
-- If you leave this box checked, PHASTEST can retrieve existing results for your input query: for example, if you uploaded a GenBank file that someone else had previously run through PHASTEST, the program will return those results to you rather than redoing the entire annotation. If preexisting results exist for your input, this will save you some time.
+- If you leave this box checked, PHASTEST can retrieve existing results for your input query: for example, if you uploaded a FASTA file that someone else had previously run through PHASTEST, the program will return those results to you rather than redoing the entire annotation. If preexisting results exist for your input, this will save you some time.
 
 - If you uncheck this box, PHASTEST will not retrieve existing results, and will run your annotation from square one.
 
