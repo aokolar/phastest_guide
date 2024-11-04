@@ -54,14 +54,37 @@ If you wish to download a .zip file of your annotation results, you can do so by
 
 ### 3.1. Region summary
 This tab shows an overview of any and all potential phages that were found in your input sequence. This page also gives some details on what type of phages were found, how complete their genetic information is, and where they are located in the bacterial genome. All of this information is explained directly on the page.
+
 ![image](https://github.com/user-attachments/assets/035d37b9-a1cd-4e94-aa47-a7b962df5e68)
 
 ### 3.2. Phage genes
 This tab shows what kinds of phage genes were found in your annotation, where they are located, and how confident PHASTEST is in their correctness. Results are color-coded by the functions of their encoded proteins, with a color legend given at the top of this page.
+
 ![image](https://github.com/user-attachments/assets/2c3c20e5-059f-4641-857f-6a92b3fbff46)
 
 ### 3.3. Bacterial genes
 This tab functions the same as the "phage genes" tab, but shows the bacterium's annotated genes instead. This tab's results are also color-coded, but there are much fewer categories that PHASTEST puts these genes in, since the program is geared towards phages after all. This tab might be useful for quick reference, but I wouldn't recommend using PHASTEST as your go-to tool for whole-genome annotation.
+
 ![image](https://github.com/user-attachments/assets/d208cfa7-f2a3-491a-93e8-bd86e0e0536b)
 
 ### 3.4 Genome viewer 2.0
+#### This is where all the fun is.
+This tab shows detailed graphical views (both circular and linear) of all the annotated phage genes in your submitted sequence. They are, once again, color-coded, with a legend on the right side of the window explaining what each color denotes. You can use your cursor and scroll wheel to zoom in/out and move these graphs around.
+
+On the circular graph, the two outer rings (mostly orange) show bacterial genes, and the next two rings (mostly empty) show phage genes. On the linear graph, the same colors apply, but the two top tracks show phage genes, and the next two tracks down show bacterial genes.
+
+![image](https://github.com/user-attachments/assets/34fa751c-be80-4d83-9da7-a4513be6dc3b)
+
+At the bottom of each graph viewer window, you can toggle different viewing options and download images of the graphs.
+
+If you hover your cursor over different regions of the graphs, you will get a popup dialog box that gives you some details about which gene you are looking at.
+
+![image](https://github.com/user-attachments/assets/b9ad93d7-a8a1-4f12-8276-005cc9a44e09)
+
+Clicking on a gene or region in either graph will cause the linear graph to zoom in on the region you clicked on, and if you scroll to the bottom of the page, a text box will give you the DNA and amino acid sequences for that gene.
+
+![image](https://github.com/user-attachments/assets/4b7205cc-5c9d-4479-abad-15e92b31f5b6)
+![image](https://github.com/user-attachments/assets/101d2ea2-5496-4e5d-8cb1-f27f78cd0297)
+
+## And that's it!
+Happy phageing :)
