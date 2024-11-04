@@ -67,7 +67,7 @@ This tab functions the same as the "phage genes" tab, but shows the bacterium's 
 
 ![image](https://github.com/user-attachments/assets/d208cfa7-f2a3-491a-93e8-bd86e0e0536b)
 
-### 3.4 Genome viewer 2.0
+### 3.4. Genome viewer 2.0
 #### This is where all the fun is.
 This tab shows detailed graphical views (both circular and linear) of all the annotated phage genes in your submitted sequence. They are, once again, color-coded, with a legend on the right side of the window explaining what each color denotes. You can use your cursor and scroll wheel to zoom in/out and move these graphs around.
 
@@ -86,5 +86,5 @@ Clicking on a gene or region in either graph will cause the linear graph to zoom
 ![image](https://github.com/user-attachments/assets/4b7205cc-5c9d-4479-abad-15e92b31f5b6)
 ![image](https://github.com/user-attachments/assets/101d2ea2-5496-4e5d-8cb1-f27f78cd0297)
 
-## And that's it!
-Happy phageing :)
+### And that's it!
+Happy phaging :)
