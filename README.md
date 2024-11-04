@@ -1,6 +1,6 @@
 # User Guide: Phage Annotation with PHASTEST https://phastest.ca/
 
-## 1. Input method
+## 1. Input
 PHASTEST accepts inputs in 3 formats: GenBank annotations, raw nucleotide sequences, and FASTA-formatted nucleotide sequences.
 
 The program runs the fastest with pre-annotated GenBank inputs, but as the name totes, it will ultimately run relatively quickly regardless of your input format.
