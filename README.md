@@ -53,7 +53,7 @@ If at any time you want to remove a result from your saved searches, open that s
 If you wish to download a .zip file of your annotation results, you can do so by clicking the link next to "Download Results" at the top of your submission results page.
 
 ### 3.1. Region summary
-This tab shows an overview of any and all potential phages that were found in your input sequence. This page also gives some details on what type of phages were found, how complete their genetic information is, and where they are located in the bacterial genome. All of this information is explained directly on the page.
+This tab shows an overview of any and all potential phages that were found in your input sequence. This page also gives some details on what kinds of phages were found, how complete their genetic information is, and where they are located in the bacterial genome. All of this information is explained directly on the page.
 
 ![image](https://github.com/user-attachments/assets/035d37b9-a1cd-4e94-aa47-a7b962df5e68)
 
