@@ -33,19 +33,27 @@ If you are submitting your input from the "Upload File" or "Paste Sequence" tabs
 Regardless of your input method, PHASTEST gives you a text box where you can input your email address to be notified when your annotation is done processing. This is not mandatory, especially because PHASTEST completes an annotation within a few minutes, but I highly recommend entering your email if you want to save your results for later! The URL for your results page never expires, so you can keep the link for future reference and your results will still be there.
 
 ### 2.4. Remember me
-At the bottom of the input window is a pre-checked box that says "Remember My Searches". If you leave this box checked, PHASTEST will remember any annotations you run in your current browser. This option uses cookies.
+At the bottom of the input window is a pre-checked box that says "Remember My Searches". If you leave this box checked, PHASTEST will remember any annotations you run in your current browser. This option uses cookies to remember your information.
 
 To access your previously completed searches, click on the three parallel lines in the top left corner of any page, then navigate to "My Searches". 
 
-If at any time you want to remove a result from your saved searches, open the results page and uncheck the "Remember Me" box in the top right corner of the page.
+If at any time you want to remove a result from your saved searches, open that search's results page and uncheck the "Remember Me" box in the top right corner of the page.
 
 ## When you are ready, click "SUBMIT" and let PHASTEST work its magic.
 
 ## 3. Submission results
+If you wish to download a .zip file of your annotation results, you can do so by clicking the link next to "Download Results" at the top of your submission results page.
+
 ### 3.1. Region summary
+This tab shows an overview of any and all potential phages that were found in your input sequence. This page also gives some details on what type of phages were found, how complete their genetic information is, and where they are located in the bacterial genome. All of this information is explained directly on the page.
+![image](https://github.com/user-attachments/assets/035d37b9-a1cd-4e94-aa47-a7b962df5e68)
 
 ### 3.2. Phage genes
+This tab shows what kinds of phage genes were found in your annotation, where they are located, and how confident PHASTEST is in their correctness. Results are color-coded by the functions of their encoded proteins, with a color legend given at the top of this page.
+![image](https://github.com/user-attachments/assets/2c3c20e5-059f-4641-857f-6a92b3fbff46)
 
 ### 3.3. Bacterial genes
+This tab functions the same as the "phage genes" tab, but shows the bacterium's annotated genes instead. This tab's results are also color-coded, but there are much fewer categories that PHASTEST puts these genes in, since the program is geared towards phages after all. This tab might be useful for quick reference, but I wouldn't recommend using PHASTEST as your go-to tool for whole-genome annotation.
+![image](https://github.com/user-attachments/assets/d208cfa7-f2a3-491a-93e8-bd86e0e0536b)
 
 ### 3.4 Genome viewer 2.0
