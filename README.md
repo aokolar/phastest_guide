@@ -19,6 +19,7 @@ PHASTEST provides sample input data for all of the above formats (except for raw
 - From the "Paste sequence" tab, you have two options:
    - Click on the link in "See an example FASTA sequence" to download a FASTA file. You must then open the file and copy the text to turn around and paste it into PHASTEST. This is a little convoluted when you could just upload the file directly on the "Upload file" tab.
    - For a much more convenient option, click on the green "Load example" button at the bottom of the blue box and PHASTEST will load the sequence text from a FASTA file into the text box for you.
+
 Alternatively, I've also uploaded the sample GenBank and FASTA input files to this repository for your use.
 
 ## 2. Other input parameters
